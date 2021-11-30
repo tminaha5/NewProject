@@ -18,6 +18,6 @@ public class ProjectDemo {
 	public static void name(String a) {
 		
 		a = "Good Job, you got this!!";
-		System.out.println(a-b);
+	
 	}
 }
