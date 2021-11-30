@@ -7,4 +7,8 @@ public class ProjectDemo {
 		System.out.println("Hello");
 	}
 
+	public static void addNum(int a, int b) {
+		
+		System.out.println(a + b);
+	}
 }
