@@ -12,5 +12,11 @@ public class ProjectDemo {
 		System.out.println(a + b);
 		
 		System.out.println(a * b);
+		
+	}
+	
+	public static void name(String a) {
+		
+		a = "Good Job, you got this!!";
 	}
 }
