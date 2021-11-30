@@ -18,6 +18,7 @@ public class ProjectDemo {
 	public static void name(String a) {
 		
 		a = "Good Job, you got this!!";
+		a = "Thank you!";
 	
 	}
 }
